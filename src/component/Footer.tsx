@@ -113,7 +113,7 @@ export default function Footer() {
 
               <div className="space-y-5 text-white/70">
                 <p className="leading-7">
-                  Jakarta, Indonesia
+                  Tegal, Jawa Tengah, Indonesia
                 </p>
 
               </div>
