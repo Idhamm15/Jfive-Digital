@@ -3,7 +3,7 @@ import Hero from "./Hero";
 
 export default function LandingHero() {
   return (
-    <div className="bg-blue-200 overflow-hidden">
+    <div className="overflow-hidden">
       <Navbar />
       <Hero />
     </div>

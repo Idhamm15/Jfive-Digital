@@ -108,7 +108,7 @@ export default function Hero() {
       </div>
 
       {/* WAVE */}
-      <div className="text-white sm:-mt-24 lg:-mt-36 relative">
+      {/* <div className="text-white sm:-mt-24 lg:-mt-36 relative">
         <svg
           viewBox="0 0 1200 120"
           preserveAspectRatio="none"
@@ -120,7 +120,7 @@ export default function Hero() {
           />
         </svg>
         <div className="bg-white w-full h-20 -mt-1"></div>
-      </div>
+      </div> */}
     </div>
   );
 }
